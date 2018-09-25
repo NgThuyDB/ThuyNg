@@ -1,0 +1,27 @@
+.container {
+  width: 960px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.top-bar {
+  background: #373c42;
+  color: #999;
+}
+
+.logo-main {
+  background: #4c555e;
+  color: #fff;
+}
+
+.contain ul {
+  background: #31363c;
+  color: #fff;
+}
+
+.footer {
+  background: #ededed;
+  color: #7f7d77;
+}
